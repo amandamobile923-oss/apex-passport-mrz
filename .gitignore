@@ -1,0 +1,15 @@
+# Database credentials and wallets: never commit these
+Wallet_*.zip
+*.sso
+*.p12
+cwallet*
+ewallet*
+tnsnames.ora
+sqlnet.ora
+.env
+*.env
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
